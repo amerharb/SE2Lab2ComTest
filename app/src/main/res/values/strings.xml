@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">ComTest</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+    <string name="Push_a_button">Push a button:</string>
+</resources>
